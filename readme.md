@@ -8,4 +8,6 @@
  - Random function in C is used to implement computer vs player and computer vs computer mode.
 
  ### Screenshot
- <img src="ss.png"/>
+ <img src="screenshots/ss.png"/>
+ 
+ [Download Game](tictactoefinal.exe "download")
